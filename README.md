@@ -1,1 +1,20 @@
-# mvc-architecture
+# MVC Architecture in JavaScript Web Applications
+
+[View slideshow](https://drive.google.com/file/d/18LKtNDYxT-YM5_VflXB7B7B2cJxzCIQW/view?usp=sharing)
+
+![1](https://user-images.githubusercontent.com/101529105/200438876-8b0ca58b-48a0-4e7c-9539-8276b58ded60.png)
+![2](https://user-images.githubusercontent.com/101529105/200438878-7700a83c-67c0-420d-a156-dae0a6be9580.png)
+![3](https://user-images.githubusercontent.com/101529105/200438880-a914de3e-0dc9-4cd3-bdf5-1b63f6ee81da.png)
+![4](https://user-images.githubusercontent.com/101529105/200438881-916e8565-440d-4ebe-899d-84a250231594.png)
+![5](https://user-images.githubusercontent.com/101529105/200438883-f1dfeaba-abc0-4dcf-919b-235f7754b83c.png)
+![6](https://user-images.githubusercontent.com/101529105/200438885-884f5d9d-055f-4ed4-b708-305469137fa6.png)
+![7](https://user-images.githubusercontent.com/101529105/200438886-60e0976d-27ac-461a-825d-c82036f64e2d.png)
+![8](https://user-images.githubusercontent.com/101529105/200438889-a50dd8c3-a2e8-49b9-a556-ca9df8232397.png)
+![9](https://user-images.githubusercontent.com/101529105/200438891-af8a0a56-002e-4149-ad99-cfc0070ec35f.png)
+![10](https://user-images.githubusercontent.com/101529105/200438893-e3bac5c5-ade3-4727-bab1-3cb4c064961b.png)
+![11](https://user-images.githubusercontent.com/101529105/200438896-b42678e5-aa8e-42b4-ba4f-2bfd6bccb4fa.png)
+![12](https://user-images.githubusercontent.com/101529105/200438897-7084e2d9-0090-4b4e-92a8-9a1023815369.png)
+![13](https://user-images.githubusercontent.com/101529105/200438899-4567ce88-d282-48e4-8595-b2f95be71c1c.png)
+![14](https://user-images.githubusercontent.com/101529105/200438900-4eb6fdd4-9c0b-4f6d-b6d0-32d1f8f93458.png)
+![15](https://user-images.githubusercontent.com/101529105/200438901-9d731d1e-b691-47c2-b924-3096198ff36a.png)
+![16](https://user-images.githubusercontent.com/101529105/200438902-e43652f0-d8d1-4d7f-87eb-20d2658e2c2f.png)
